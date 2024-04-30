@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Weapon
+  - Coin
+  - Bomber
+  - Enemy
+  - Ground
+  - UIManager
+  - ScreenShake
+  - ScreenShakeTog
+  - Item
+  - CameraPOV
+  - Spawner
+  - Canvas
+  - Spillage
+  - Plates
+  - StoveTop
+  - Smoke
+  - ControlPanel
+  - PauseMenu
+  - EnemyWeapon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Weapon
+  - Map
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
